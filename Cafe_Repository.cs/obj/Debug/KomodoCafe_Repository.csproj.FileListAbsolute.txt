@@ -1,0 +1,8 @@
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\bin\Debug\Cafe_Repository.cs.exe.config
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\bin\Debug\Cafe_Repository.cs.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\bin\Debug\Cafe_Repository.cs.pdb
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\obj\Debug\KomodoCafe_Repository.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\obj\Debug\KomodoCafe_Repository.csproj.SuggestedBindingRedirects.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\obj\Debug\KomodoCafe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\obj\Debug\Cafe_Repository.cs.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\Cafe_Repository.cs\obj\Debug\Cafe_Repository.cs.pdb

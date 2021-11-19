@@ -1,0 +1,11 @@
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\bin\Debug\03_KomodoInsuranceUI.exe.config
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\bin\Debug\03_KomodoInsuranceUI.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\bin\Debug\03_KomodoInsuranceUI.pdb
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\bin\Debug\03_KomodoInsurance_Repo.dll
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\bin\Debug\03_KomodoInsurance_Repo.pdb
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.csproj.CopyComplete
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\03_KomodoInsuranceUI\obj\Debug\03_KomodoInsuranceUI.pdb

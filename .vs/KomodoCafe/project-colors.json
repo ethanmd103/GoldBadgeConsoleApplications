@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72ace880-d631-4199-9e36-712a9ff3c381": {
+      "ProjectGuid": "72ace880-d631-4199-9e36-712a9ff3c381",
+      "DisplayName": "02_KomodoClaims_Repository",
+      "ColorIndex": 0
+    },
+    "c87860a1-577c-405d-b268-660bb2aacbb8": {
+      "ProjectGuid": "c87860a1-577c-405d-b268-660bb2aacbb8",
+      "DisplayName": "02_KomodoClaims_UI",
+      "ColorIndex": 1
+    },
+    "4780bf83-b8c6-4fff-a91a-ab4bc8aa0e8c": {
+      "ProjectGuid": "4780bf83-b8c6-4fff-a91a-ab4bc8aa0e8c",
+      "DisplayName": "KomodoCafe",
+      "ColorIndex": 2
+    },
+    "8920d42f-b268-4beb-9c45-7b8126aa4b82": {
+      "ProjectGuid": "8920d42f-b268-4beb-9c45-7b8126aa4b82",
+      "DisplayName": "KomodoCafe_Repository",
+      "ColorIndex": 3
+    },
+    "31d18c20-fe32-4b9e-82d7-3764e872466a": {
+      "ProjectGuid": "31d18c20-fe32-4b9e-82d7-3764e872466a",
+      "DisplayName": "02_KomodoClaims_Tests",
+      "ColorIndex": 4
+    },
+    "31d67424-f6d6-47de-a08a-52e60ef6cf46": {
+      "ProjectGuid": "31d67424-f6d6-47de-a08a-52e60ef6cf46",
+      "DisplayName": "03_KomodoInsuranceUI",
+      "ColorIndex": 5
+    },
+    "6b333253-dda4-45f4-a05b-2e07c64f674c": {
+      "ProjectGuid": "6b333253-dda4-45f4-a05b-2e07c64f674c",
+      "DisplayName": "03_KomodoInsurance_Repo",
+      "ColorIndex": 6
+    },
+    "5b891a79-fa13-42ee-a210-fe7a3fa63508": {
+      "ProjectGuid": "5b891a79-fa13-42ee-a210-fe7a3fa63508",
+      "DisplayName": "KomodoCafe_Tests",
+      "ColorIndex": 7
+    },
+    "16d9a02f-91b4-4c1a-a373-97fb315f69bd": {
+      "ProjectGuid": "16d9a02f-91b4-4c1a-a373-97fb315f69bd",
+      "DisplayName": "00_Junkyard",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

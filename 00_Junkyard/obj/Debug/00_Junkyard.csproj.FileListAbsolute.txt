@@ -1,0 +1,8 @@
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\bin\Debug\00_Junkyard.exe.config
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\bin\Debug\00_Junkyard.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\bin\Debug\00_Junkyard.pdb
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\obj\Debug\00_Junkyard.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\obj\Debug\00_Junkyard.csproj.SuggestedBindingRedirects.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\obj\Debug\00_Junkyard.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\obj\Debug\00_Junkyard.exe
+C:\Users\ethan\Desktop\ElevenFiftyProjects\113SD\KomodoCafe\00_Junkyard\obj\Debug\00_Junkyard.pdb
